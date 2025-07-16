@@ -1,0 +1,16 @@
+# ip地址, 类型str
+ip   : "192.168.166.170"
+# 端口号, 类型int
+port : 21274
+# 地图相对路径, 类型str
+map_path : "map.png"
+# 默认线速度, 类型float
+linear : 0.25
+# 默认转角弧度, 类型float
+angular: 3.14
+# 调整速度和弧度的变化量, 类型float
+dert : 0.3
+# 用户名, 类型str
+username : "cobridge_user"
+# 用户ID, 类型str
+userId : "zephyr_client"
